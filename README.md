@@ -1,18 +1,16 @@
-# Baby University
-
-## Client: Dr Christopher Ferrie
+# Baby University (Clone of original github repository)
 
 ## Project Description
 This project, alongside Dr Christopher Ferrrie, aims to convert the book series 'Baby University' into an interactive IOS application with simple animations and sounds aimed at younger children.
 ## Team - Contributors
-- **Thomas Separovich** - 14273546
-- **Arpitha Thoagrapalli Dinesh** - 24967174
-- **Joshua Tangendjaja** - 24442143
-- **Abhishek Chand** - 24555245
-- **Yazan El-Taha** - 14397448
-- **Mudra Dongare** - 24481424
-- **Kimleng Thai** - 24577494
-- **Ali Jafari** - 24419638
+- **Thomas Separovich**
+- **Arpitha Thoagrapalli Dinesh**
+- **Joshua Tangendjaja**
+- **Abhishek Chand**
+- **Yazan El-Taha**
+- **Mudra Dongare**
+- **Kimleng Thai**
+- **Ali Jafari**
 
 ## Requirements 
 - MacOS (required to run Xcode for iPad simulator)
